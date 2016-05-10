@@ -10,7 +10,7 @@ var vk = new VK({
     'v': '5.52'
 });
 
-var access_token = "b27813b3256e60152929a322de2321ce3e8e98ab6053089b5124b188e36b6d23cbb272891a92ddca30baa";
+var access_token = "bc8d314f5dbb52269398891560095b7302f4471f84ae402f5981a55f3a3047e44cc5493aea10e653bc5cc";
 var u_id = 88567346;
 var club1 = -72688782;
 var club2 = -100659116;
